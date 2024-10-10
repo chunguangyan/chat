@@ -24,10 +24,8 @@ Authentication: JWT (JSON Web Token)
 Installation and Setup
 
 Backend Setup
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-repo-name.git
+
+
 Navigate to the backend directory:
 bash
 Copy code
